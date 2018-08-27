@@ -1,0 +1,11 @@
+export const GET_IMAGES = "GET_IMAGES";
+export const GET_IMAGES_LOADING = "GET_IMAGES_LOADING";
+export const GET_IMAGES_ERROR = "GET_IMAGES_ERROR";
+export const GET_IMAGES_SUCCESS = "GET_IMAGES_SUCCESS";
+
+export const UPDATE_SHAPE = "UPDATE_SHAPE";
+export const CHANGE_SHAPE = "CHANGE_SHAPE";
+export const CHANGE_COLOR = "CHANGE_COLOR";
+export const CHANGE_PROJECT = "CHANGE_PROJECT";
+export const UNDO_SHAPE = "UNDO_SHAPE";
+export const REDO_SHAPE = "REDO_SHAPE";

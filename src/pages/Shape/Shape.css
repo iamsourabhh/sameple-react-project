@@ -1,0 +1,19 @@
+.shape-container {
+  width: 100%;
+}
+.shape-flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 100px;
+}
+.shape-form {
+  /* flex: 0.5; */
+}
+.figure-form {
+  /* flex: 0.5; */
+  align-content: flex-start;
+}
